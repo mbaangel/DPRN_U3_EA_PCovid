@@ -1,0 +1,11 @@
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\bin\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.deps.json
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\bin\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.runtimeconfig.json
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\bin\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.runtimeconfig.dev.json
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\bin\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.dll
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\bin\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.pdb
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.csprojAssemblyReference.cache
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.csproj.CoreCompileInputs.cache
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.AssemblyInfoInputs.cache
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.AssemblyInfo.cs
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.dll
+E:\Documents\UNADM\BlackBoard\05 Semestre\28 Programación NET I DPRN1\03 Unidad\DPRN_U3_EA_MIMR\obj\Debug\netcoreapp2.1\DPRN_U3_EA_MIMR.pdb
