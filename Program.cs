@@ -1,7 +1,7 @@
-﻿// UNADM 
-// PROGRAMACIÓN .NET 1 (DS-DPRN1-2102-B1-001)
-// Docente Mtra.Alejandra Osti Flores
-// Alumno Miguel Angel Morales Rutilo ES1822025493
+﻿// 
+// .NET 1 (DS-DPRN1-2102-B1-001)
+// 
+// Sample init
 
 using System;
 using System.Globalization;
